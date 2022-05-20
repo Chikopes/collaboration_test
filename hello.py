@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
-print("hello world")
-print("Other greeting")
+print ("hello world")
+print("HOLA")
